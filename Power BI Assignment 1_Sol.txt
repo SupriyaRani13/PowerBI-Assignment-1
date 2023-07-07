@@ -1,0 +1,118 @@
+Power BI Assignment 1
+
+
+1.What do you mean by BI? Explain.
+
+Ans: Business intelligence(BI) is software that ingests business data and presents it in user-friendly 
+     views such as reports, dashboards, charts and graphs.
+     
+Applications of BI:
+ 
+ a)Reporting and Visualization: Presenting the analyzed data in a visually appealing and understandable format,such as charts, graphs, dashboards, 
+   and   reports
+
+ b)Data Modeling: Structuring the integrated data to create a unified view of the business. This involves defining relationships, hierarchies,
+   and dimensions to facilitate analysis.
+
+ c)Data Integration: Gathering data from different sources such as databases, spreadsheets, and applications and consolidating it into a central repository.
+
+ d)Data Governance and Security: Ensuring data accuracy, integrity, and security through proper data governance practices, including data 
+   quality management, access controls, and compliance with regulations.
+
+2.How Power-BI helps in BI, and how does it help Analysts? Explain.
+
+Ans:PowerBI helps in BI by providing a comprehensive platform for data visualization, data modeling, and analytics.
+    Here's how Power BI assists in business intelligence and benefits analysts:
+
+    1.Data Connectivity: Power BI connects to a wide range of data sources, including databases, cloud services, spreadsheets, and online services. 
+
+    2.Data Modeling and Transformation: Power BI provides a user-friendly interface for data modeling and transformation
+    
+    3.Data Visualization: Power BI offers a rich set of visualization options, including charts, graphs, maps, and tables
+   
+    4.Interactive Analysis: Power BI allows analysts to perform interactive analysis by slicing and filtering data, drilling down into details.
+
+    5.Collaboration and Sharing: Power BI enables analysts to collaborate with colleagues and share their reports and dashboards securely.
+
+    6.Integration with Other Tools: Power BI integrates seamlessly with other Microsoft tools such as Excel, Azure services, and SQL Server.
+
+3.Explain Descriptive analytics?
+
+Ans: Descriptive analytics is a branch of analytics that focuses on understanding historical data to gain insights into past events, trends, and patterns.
+     It involves analyzing and summarizing data to describe what has happened in the past, without attempting to explain why or predict future outcomes.
+
+    The key characteristics:
+    
+     a)Historical Analysis: Descriptive analytics looks at historical data to understand past events and trends.
+    
+     b)Data Aggregation and Summary: Descriptive analytics involves aggregating and summarizing data to provide a high-level overview
+       and meaningful insights. 
+     
+     c)Key Performance Indicators (KPIs): Descriptive analytics often focuses on analyzing key performance indicators, 
+      which are quantifiable metrics that reflect the performance of a business process or an organization. 
+    
+
+4.Explain Predictive analytics?
+
+Ans:a)Predictive analytics is a branch of analytics that leverages historical data and statistical algorithms to make predictions and forecasts 
+      about future events or outcomes. It involves analyzing patterns, relationships, and trends in historical data to develop models 
+      that can be used to predict future behavior or trends.
+
+     b)Predictive analytics is the process of using data to forecast future outcomes. The process uses data analysis, machine learning, 
+       artificial intelligence, and statistical models to find patterns that might predict future behavior.
+
+     c)Prescriptive analytics is a form of data analytics that helps businesses make better and more informed decisions. 
+       Its goal is to help answer questions about what should be done to make something happen in the future.
+
+     d)It analyzes raw data about past trends and performance through machine learning (so very little human input, if any at all) 
+       to determine possible courses of action or new strategies generally for the near term.
+   
+     e)It's possible that it might refer to a specialized or industry-specific term that is not widely recognized or established.
+
+5.Write five real-life questions that PowerBi can solve.
+
+Ans: Five real-life questions that Power BI can help solve:
+    
+   1.Which products or services are driving the highest revenue and profitability?
+      Power BI can connect to your sales data and provide visualizations and reports that allow you to analyze sales performance
+      across different products or services.
+
+   2.How is our marketing campaign performing across different channels?
+     By integrating data from various marketing channels into Power BI, you can create dashboards and reports that provide insights 
+     into the effectiveness of your marketing campaigns.
+
+   3.What are the key factors influencing customer satisfaction?
+    Power BI can help you analyze customer feedback data, customer survey responses, and other relevant data sources to identify 
+    the key factors driving customer satisfaction. 
+
+   4.How is our inventory performing in terms of stock levels and turnover?
+     By connecting Power BI to your inventory management system, you can gain insights into your inventory performance.
+
+   5.What are the main drivers of employee attrition?
+     Power BI can help analyze HR data, such as employee demographics, performance metrics, and exit interviews, to identify
+     factors contributing to employee attrition
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
